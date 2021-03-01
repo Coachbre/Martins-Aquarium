@@ -1,3 +1,7 @@
+/**
+ *  Fish which renders individual fish objects as HTML
+ */
+
 export const Fish = (fishObj) => {
   
 	return `<article class="fish-card">

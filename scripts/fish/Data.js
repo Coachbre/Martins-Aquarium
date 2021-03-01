@@ -10,7 +10,7 @@ export const fishCollection = [
 		name: "Malcolm",
 		species: "Blue Tang",
 		inches: 13,
-		image: "bluefish.jpg"
+		image: "bluefish.png"
 	},
 	{
 		saltWater: true,
@@ -29,7 +29,7 @@ export const fishCollection = [
 		name: "Jerry",
 		species: "swordfish",
 		inches: 80,
-		image: "bluefish.jpg"
+		image: "bluefish.png"
 	},
 	{
 		saltWater: true,
@@ -213,6 +213,6 @@ export const fishCollection = [
 		name: "Fil",
 		species: "goldFish",
 		inches: 40,
-		image: "bluefish.jpg"
+		image: "images/bluefish.jpg"
 	}
 ];
