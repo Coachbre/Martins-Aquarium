@@ -1,6 +1,6 @@
-import { Fish } from "./scripts/fish/Fish.js"
+import { Fish } from "./fish/Fish.js"
 
-import { getFish } from "./scripts/fish/Data.js"
+import { getFish } from "./fish/FishData.js"
 
 const allTheFish = getFish()
 
@@ -8,7 +8,7 @@ for (const fish of allTheFish) {
     console.log(fish)
 }
 
-import { FishList } from "./scripts/fish/FishList.js"
+import { FishList } from "./fish/FishList.js"
 
 FishList ()
 
