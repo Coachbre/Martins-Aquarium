@@ -4,9 +4,9 @@
 
 // TODO: Import `getFish` from the data module
 
-import { getFish } from "./scripts/fish/Data.js"
+import { getFish } from "./FishData.js"
 
-import { Fish } from "./scripts/fish/Fish.js"
+import { Fish } from "./Fish.js"
 
 export const FishList = () => {
 
@@ -14,7 +14,7 @@ export const FishList = () => {
     const contentElement = document.querySelector(".fishListContainer")
     const fishesArray = getFish();
 
-    let storeFishHtml = ""
+    let storeFishHtml = "";
     
 
     for (const singleFish of fishesArray) {
