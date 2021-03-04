@@ -96,7 +96,7 @@ export const fishCollection = [
 	},
 	{ saltWater: true, harvestLocation: "South Pacific", diet: "shrimp", inches: 64, species: "Tuna", name: "Bruno", image: "yellowfish.jpg" },
 	
-	{ saltWater: false, harvestLocation: "Petsmart", diet: "algae", name: "Dorothy", species: "goldfish", inches: 3, img: "greyfish.jpg" },
+	{ saltWater: false, harvestLocation: "Petsmart", diet: "algae", name: "Dorothy", species: "goldfish", inches: 3, image: "greyfish.jpg" },
 	{
 		saltWater: false,
 		harvestLocation: "Lake Tahoe",
