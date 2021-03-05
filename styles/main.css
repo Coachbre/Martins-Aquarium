@@ -1,5 +1,6 @@
 /* Be sure to create a styles directory and put this file in there */
-/* @import "tips.css"; */
+ @import "tips.css";
+ @import "location.css";
 
 body {
 	background-color: antiquewhite;

@@ -6,7 +6,7 @@ import { Tip } from "./Tip.js"
 
 export const TipList = () => {
 
-    const contentElement = document.querySelector("tipListContainer")
+    const contentElement = document.querySelector(".tipListContainer")
     const tipArray = getTip();
 
     let storeTipHtml = "";
