@@ -4,9 +4,9 @@ export const getTip = () => {
 
 export const tipCollection = [
     {
-        care: "Basic Aquarium Care";
-        habitat: "aquarium";
-        cleaning: "filtration system";
+        care: "Basic Aquarium Care",
+        habitat: "aquarium",
+        cleaning: "filtration system",
         schedule: "Check fish species"
     }
 ]
